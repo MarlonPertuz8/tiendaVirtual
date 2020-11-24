@@ -138,7 +138,7 @@ body { font-family: 'Titillium Web', sans-serif; }
 
 .shopping-item:hover {
     background: none repeat scroll 0 0 #a6cf11;
-    border-color: #a6cf11;
+    border-color: #5dcf11;
 }
 .shopping-item:hover a {
     color: #fff;text-decoration: none
