@@ -4,6 +4,6 @@
 .titulo {
 	width:100%;
 	text-align:center;
-	font-family:Georgia, "Times New Roman", Times, serif;
+	font-family: 'Oswald', sans-serif;
 	}
 </style>
