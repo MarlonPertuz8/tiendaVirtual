@@ -96,7 +96,7 @@ body { font-family: 'Titillium Web', sans-serif; }
     margin: 40px 0;font-weight: 400;
 }
 .logo h1 a {
-    color: #999;
+    color: #bfbfbf;
 }
 .logo h1 a:hover {text-decoration: none;opacity: .7}
 .logo h1 a span {
